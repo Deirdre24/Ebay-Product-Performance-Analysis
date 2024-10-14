@@ -1,8 +1,7 @@
 # Ebay-Product-Performance-Analysis
 This project focuses on analyzing a provided eBay dataset to understand customer preferences and product ratings. The primary goal is to clean the data using Power BI's Power Query Editor and create visualizations that highlight key insights.
 
-![Alt text](![image](https://github.com/user-attachments/assets/f852f1a3-bc13-4fcd-8b41-5fef6c96e0ec)
-)
+![Alt text](https://github.com/Deirdre24/Ebay-Product-Performance-Analysis/blob/main/eBay%20Product%20Performance%20Dashboard.png)
 
 
 # Table Of Contents
