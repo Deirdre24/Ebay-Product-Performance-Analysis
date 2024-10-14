@@ -37,7 +37,7 @@ Using Power Query Editor:
 - Remove Unnecessary Columns: Select columns that are not needed and click “Remove Columns” on the Home tab.
 - Filter Rows: Apply filters to remove inconsistencies, such as duplicate entries or rows with missing values.
 - Standardize Data: Use functions to replace missing values and ensure uniformity across entries.
-- 
+  
 Recording Transformation Steps:
 - All transformations are automatically recorded in Power Query Editor, ensuring that every time the query connects to the data source, these steps are applied consistently.
 - Finalizing Data Preparation:
@@ -69,8 +69,8 @@ These insights can guide manufacturers in focusing on producing models that alig
 The folder contains:
 * `a data folder` A folder with the original dataset and cleaned datasets used for analysis 
 * `data_analysis.pbix` - The Power BI report file containing all visualizations and insights derived from the data
-* presentation.pptx - A PowerPoint presentation summarizing the analysis.
-dashboard_screenshots.docx - A Word document with snapshots of the dashboard and filtered insights.
+* `presentation.pptx` - A PowerPoint presentation summarizing the analysis.
+* `dashboard_screenshots.docx` - A Word document with snapshots of the dashboard and filtered insights.
 
 
 # Licensing And Authors
